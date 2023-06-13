@@ -1,4 +1,5 @@
 ﻿# JavaScript-Exercises-WorldDataVisualization2
 
 This project is extracted from my JavaScriptReview repository.
-You can view the Live Demo soon!
+Live Demo link below:
+https://just-toni.github.io/JavaScriptReview-World-Data-Visualization2-Project/
